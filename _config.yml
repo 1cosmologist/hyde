@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            shamik ghosh
+tagline:          'Personal website'
+description:      'The personal website of Dr. Shamik Ghosh'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://1cosmologist.github.io/1cosmologist.github.io/
 
 author:
-  name:           'Mark Otto'
+  name:           'Shamik Ghosh'
   url:            https://twitter.com/mdo
 
 paginate:         5
