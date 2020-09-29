@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            shamik ghosh
 tagline:          'Personal website'
 description:      'The personal website of Dr. Shamik Ghosh'
-url:              http://hyde.getpoole.com
+url:              http://1cosmologist.github.io
 baseurl:          https://1cosmologist.github.io/1cosmologist.github.io/
 
 author:
